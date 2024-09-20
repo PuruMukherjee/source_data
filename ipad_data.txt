@@ -1,0 +1,4 @@
+name,price,quantity
+"ipad neo",77800,1
+"ipad pro",99900,1
+"ipad pro",101000,5

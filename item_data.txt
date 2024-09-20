@@ -1,0 +1,181 @@
+item,quantity,price
+Mangoes,12,343.777
+Apple,23.00000,383.
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 592
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 592
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 592
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787
+MangoES, 14, 5923
+Mangoes,12,343
+Apple,23,383
+Apple, 534, 455
+Lemon, 892, 393
+lemon, 89, 787.25
+MangoES, 14, 592

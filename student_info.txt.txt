@@ -1,0 +1,7 @@
+name,course_name,grades,year, scholarship
+Advaith,Physics,88,3,30
+Rohit,Chemistry,81,1,10
+Advaith1,Physics,88,3,20
+Rohi1t,Chemistry,81,1,10
+Advaith2,Physics,88,3,20
+Rohit2,Chemistry,81,1,100
